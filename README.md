@@ -32,15 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-Al-Achek&show_icons=true&theme=radical&hide_border=true" alt="Hassan-Al-Achek" /></p>
 
 
-<details>
-  <summary>:zap: Recent Project </summary>
-  
-<!--START_SECTION:activity-->
-1. Netdeath [#netdeath](https://github.com/Hassan-Al-Achek/netdeath.git)
-2. Leaker [#Leaker](https://github.com/Hassan-Al-Achek/Leaker.git)
-3. Method [#Method](https://github.com/Hassan-Al-Achek/Method.git)
-4. Linux Privilege Escalation [#Privesc](https://github.com/Hassan-Al-Achek/LinuxPrivilegeEscalation.git)
-<!--END_SECTION:activity-->
-
-</details>
 
